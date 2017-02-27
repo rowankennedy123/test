@@ -186,5 +186,6 @@ public class Connection implements Serializable
   // line 55 ../../../../../TileOPersistence.ump
   private static final long serialVersionUID = -3703402774454467836L ;
 
+
   
 }
